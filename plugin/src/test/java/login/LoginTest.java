@@ -33,7 +33,7 @@ public class LoginTest {
 		
 		// duration
 		
-		//individiual book payment
+		//individiual book paymenttest
 		
 		
 		
